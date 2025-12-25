@@ -1,0 +1,8 @@
+{
+  "name": "Hamrah Services - Smart Local Referral",
+  "description": "A smart local service platform for newcomers to find regional specialists, DIY solutions, and home maintenance products powered by Gemini AI.",
+  "requestFramePermissions": [
+    "geolocation",
+    "microphone"
+  ]
+}
